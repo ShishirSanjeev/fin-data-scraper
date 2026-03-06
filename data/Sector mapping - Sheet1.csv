@@ -1,0 +1,22 @@
+Sl No.,Sector,Sub-Sector
+1,Financial services,Finance - Term-Lending InstitutionsFinance - HousingFinance & Investments
+2,Banks - Public Sector,Banks - Public Sector
+3,Banks - Private Sector,Banks - Private Sector
+4,Diversified,Diversified - LargeDiversified - Medium / SmallAutomobiles - LCVs / HCVsPower Generation And SupplyFood - Processing - MNCBanks - Private SectorChemicalsCigarettesHealthcareAutomobiles - Passenger Cars
+5,Consumer Services,Personal Care - IndianHealthcareEntertainment / Electronic Media SoftwareTransport - Airlines
+6,Consumer Durables,Electronics - ConsumerDomestic AppliancesMoulded LuggageAir-conditionersTextiles - ProductsPlastics ProductsLeather / Leather Products
+7,Media Entertainment & Publication,Entertainment / Electronic Media Software
+8,Telecommunication,Telecommunications - EquipmentTransmisson Line Towers / EquipmentTelecommunications - Service Provider
+9,Fast Moving Consumer Goods,Personal Care - IndianMiscellaneousFood - Processing - IndianDomestic AppliancesTeaPersonal Care - MultinationalPlastics ProductsPrinting & StationerySugarFood - Processing - MNCBreweries & DistilleriesLeather / Leather ProductsPackagingPaperMoulded Luggage
+10,Construction Materials,ConstructionCement - North IndiaCement - South IndiaCeramics - Tiles / SanitarywareEngineeringSteel - LargeSteel - Sponge IronAluminium and Aluminium ProductsAir-conditionersPaints / VarnishesGlass & Glass Products
+11,Realty,ConstructionCeramics - Tiles / SanitarywareEngineeringEngineering - Turnkey Services
+12,Capital Goods,Computers - HardwareElectric EquipmentTelecommunications - EquipmentTransmisson Line Towers / EquipmentElectronics - ComponentsPower Generation And SupplyTransport - AirlinesCompressors / Drilling EquipmentAbrasives And Grinding Wheels
+13,Services,HealthcareShippingTravel AgenciesTransport - AirlinesPackagingHotelsCouriersTrading
+14,Textiles,Textiles - Cotton/BlendedTextiles - ProductsTextiles - ProcessingTextiles - Manmade
+15,Chemicals,ChemicalsPesticides / Agrochemicals - MultinationalFertilizersSolvent Extraction
+16,Energy,Electric EquipmentCables - PowerTransmisson Line Towers / EquipmentElectrodes - GraphitesPower Generation And Supply
+17,Oil Gas & Consumable Fuels,PumpsEngineeringMining / Minerals / MetalsOil Drilling / Allied ServicesCompressors / Drilling EquipmentPower Generation And SupplyRefineriesSolvent Extraction
+18,Information Technology,Computers - HardwareComputers - Software - Medium / SmallEntertainment / Electronic Media SoftwareComputers - Software - LargeTelecommunications - Service Provider
+19,Metals & Mining,Metals & MiningConstructionEngineeringSteel - Sponge IronEngineering - Turnkey ServicesSteel - LargeAluminium and Aluminium ProductsMining / Minerals / MetalsBearingsAbrasives And Grinding WheelsElectrodes - GraphitesCompressors / Drilling EquipmentSteel - Medium / SmallGlass & Glass ProductsDiamond Cutting / JewelleryCastings & Forgings
+20,Healthcare,Personal Care - IndianHealthcarePharmaceuticals - Indian - Bulk Drugs & FormlnPharmaceuticals - MultinationalPersonal Care - MultinationalPharmaceuticals - Indian - FormulationsPharmaceuticals - Indian - Bulk Drugs
+21,Automobile and Auto Components,Automobiles - Motorcycles / MopedsAutomobiles - Passenger CarsAutomobiles - Scooters And 3 - WheelersAutomobiles - TractorsAuto AncillariesAutomobiles - LCVs / HCVs
