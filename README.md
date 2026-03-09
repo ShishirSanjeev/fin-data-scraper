@@ -1,4 +1,4 @@
-# fin_data_scraper
+# Financial Data Scraper
 
 ETL pipeline for extracting, transforming, validating, and uploading NSE financial data.
 
